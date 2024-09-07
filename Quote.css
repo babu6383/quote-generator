@@ -107,6 +107,9 @@ position: relative;
     .quote-box blockquote {
         font-size: 17px;
     }
+    #author{
+        margin-bottom: 10px;
+    }
 
     .quote-box button {
         display: flex;
@@ -114,6 +117,7 @@ position: relative;
         width: 70%;
         height: 50px;
         font-size: 16px;
-        margin-left: 30px;
+        margin-left: 40px;
+       
     }
 }
