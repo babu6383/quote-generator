@@ -101,16 +101,18 @@ position: relative;
     }
 
     .quote-box h2 {
-        font-size: 20px;
+        font-size: 25px;
     }
 
     .quote-box blockquote {
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .quote-box button {
-        width: 130px;
-        height: 40px;
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+        height: 50px;
         font-size: 16px;
     }
 }
